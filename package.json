@@ -1,6 +1,6 @@
 {
   "name": "generate-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates a SEO friendly URL from a name",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chefly/geneate-url.git"
+    "url": "git+https://github.com/chefly/generate-url.git"
   },
   "keywords": [
     "url",
@@ -21,9 +21,9 @@
   "author": "Carlos Azaustre <cazauste@gmail.com> (https://carlosazaustre.es)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chefly/geneate-url/issues"
+    "url": "https://github.com/chefly/generate-url/issues"
   },
-  "homepage": "https://github.com/chefly/geneate-url#readme",
+  "homepage": "https://github.com/chefly/generate-url#readme",
   "devDependencies": {
     "tap-spec": "^4.1.1",
     "tape": "^4.6.0"
