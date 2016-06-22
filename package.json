@@ -1,6 +1,6 @@
 {
   "name": "generate-url",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Generates a SEO friendly URL from a name",
   "main": "index.js",
   "scripts": {

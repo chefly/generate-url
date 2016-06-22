@@ -1,5 +1,5 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![Build Status](https://travis-ci.org/chefly/generate-url.svg)](https://travis-ci.org/chefly/generate-url)
+[![Build Status](https://travis-ci.org/Chefly/generate-url.svg?branch=master)](https://travis-ci.org/Chefly/generate-url)
 
 # generate-url
 Generate a SEO-friendly URL from a name
@@ -16,6 +16,8 @@ const generateUrl = require('generate-url')
 
 return generateUrl('Macaroni and cheese')
 // macaroni-and-cheese
+return geneateUrl('Créme of Puréé')
+// creme-of-puree
 ```
 
 ## License
