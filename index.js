@@ -4,7 +4,8 @@ const specials = 'ÃÀÁÄÂÈÉËÊÌÍÏÎÒÓÖÔÙÚÜÛãàáäâèéëêì
 const mapped = 'AAAAAEEEEIIIIOOOOUUUUaaaaaeeeeiiiioooouuuu '
 
 /**
- * Generate a URL with spaces replaced by underscores (SEO Friendly).
+ * Generate a URL with spaces replaced by underscores and
+ * special characters with normal letters (SEO Friendly).
  * @param {string} name - Text to transform in a URL.
  * @return {string} The URL generated.
  */
