@@ -1,5 +1,6 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![Build Status](https://travis-ci.org/Chefly/generate-url.svg?branch=master)](https://travis-ci.org/Chefly/generate-url)
+[![npm version](https://badge.fury.io/js/generate-url.svg)](https://badge.fury.io/js/generate-url)
 
 # generate-url
 Generate a SEO-friendly URL from a name
