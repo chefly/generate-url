@@ -9,7 +9,9 @@ Generate a SEO-friendly URL from a name
 Designed for use in projects RESTful API. It can be used to create a new resource and use their URL for indexing instead of self-generated ID database or a random generator IDs.
 
 ## Instalation
-`$ npm install generate-url`
+```
+$ npm install generate-url
+```
 
 ## Usage
 ```js
